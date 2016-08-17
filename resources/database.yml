@@ -1,5 +1,5 @@
 development:
   adapter: sqlite3
-  database: /opt/showterm.io/showterm.sqlite3
+  database: /data/showterm.sqlite3
   pool: 5
   timeout: 5000
